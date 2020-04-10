@@ -1,0 +1,3 @@
+age,gender,ethnicity,jaundice,parents_with_autism,whos_taking_test,country_of_res,used_app_before,
+age_desc,Q1_Score,Q2_Score,Q3_Score,Q4_Score,Q5_Score,Q6_Score,Q7_Score,Q8_Score,Q9_Score,
+Q10_Score,screening_score,ASD_Label
