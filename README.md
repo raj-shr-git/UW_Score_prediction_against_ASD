@@ -1,4 +1,4 @@
-### ***Predict Underwriting Score for approving or rejecting the policy agianst Autism Spectrum Disorder(ASD) in Chidren, Adolescents and Adults using AWS Sagemaker***
+### ***Predict Underwriting Score for approving or rejecting the policy against Autism Spectrum Disorder(ASD) in Chidren, Adolescents and Adults using AWS Sagemaker***
 
 Autistic Spectrum Disorder (ASD) is a neurodevelopment condition associated with significant healthcare costs, and early diagnosis can significantly reduce it. Unfortunately, waiting times for an ASD diagnosis are lengthy and procedures are not cost effective.
 
